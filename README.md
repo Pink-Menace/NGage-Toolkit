@@ -23,3 +23,8 @@ NGage: Home Network Testing Mobile Toolkit</img></h1>
 ### Nmap: [nmap github repo](https://github.com/nmap/nmap)
 ### IP-Tracer: [ip-tracer github repo](https://github.com/rajkumardusad/IP-Tracer)
 ### Nikto: [Nikto github repo](https://github.com/sullo/nikto)
+
+## IMPORTANT NOTES:
+### I am not responsible for any misuse of this software
+### I have disabled the J0k3r-Squ4d account and moved this project here
+### DO NOT bring up issues that you can easily solve voa a quick google search, or I won't help you
