@@ -5,7 +5,6 @@ NGage: Home Network Testing Mobile Toolkit</img></h1>
 ## FEATURES:
 ### No Root Required To Use
 ### Network Tools
-### Safe APK Downloads Menu
 ### Fast And Accurate Root Checker
 ### And More!
 <img src="https://cdn.discordapp.com/attachments/727396578960343081/815308419145662544/20210226_224754.jpg" alt="NGage.jpg">
