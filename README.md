@@ -16,7 +16,7 @@ NGage: Home Network Testing Mobile Toolkit</img></h1>
 ### Termux (Android)
 
 ## ABOUT NGAGE-TOOLKIT
-### The NGage-Toolkit was developed by https://github.com/Pink-Menace as a toolkit for legal usage on home networks/owned websites, and to help with device management. As time goes by I'll be adding more features with each new update. If there are any bugs you experience, please report them to the issues section of this repo or contact me on discord (Sheogorath#2483), and I'll help solve them as fast as I can.
+### The NGage-Toolkit was developed by https://github.com/Pink-Menace as a toolkit for legal usage on home networks/owned websites, and to help with device management. As time goes by I'll be adding more features with each new update. If there are any bugs you experience, please report them to the issues section of this repo or contact me on discord (_pinkmenace), and I'll help solve them as fast as I can.
 
 ## CREDITS: 
 ### Nmap: [nmap github repo](https://github.com/nmap/nmap)
