@@ -26,4 +26,4 @@ NGage: Home Network Testing Mobile Toolkit</img></h1>
 ## IMPORTANT NOTES:
 ### I am not responsible for any misuse of this software
 ### I have disabled the J0k3r-Squ4d account and moved this project here
-### DO NOT bring up issues that you can easily solve voa a quick google search, or I won't help you
+### DO NOT bring up issues that you can easily solve via a quick google search, or I won't help you
